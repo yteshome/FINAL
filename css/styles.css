@@ -1,0 +1,39 @@
+/* Styles go here */
+body {
+  background-color: #63CEC2;
+  @font-face {
+    		font-family: myCoolFont;
+    		src: url('Open Sans', sans-serif;);
+		}
+}
+
+.profile {
+  background-color: rgba(67, 75, 89, 0.7);
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.form {
+  background-color: #F7F8F9;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+input {
+  border-radius: 10px;
+  background-color: #CCC;
+}
+
+button, a:hover {
+  color: #63CEC2;
+
+  }:
+
+  h1, h3 {
+    text-transform: uppercase;
+    list-style-type: none;
+  }
+
+  img {
+    border-radius: 10px;
+  }
